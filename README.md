@@ -24,13 +24,6 @@ Push_swap is a sorting algorithm project developed as part of the 42 School curr
 - Handle small input sets (like 2 or 3 elements) with optimal minimal operations  
 - Make sure there are **no duplicate integers**, and only valid input is accepted  
 
-### 🧩 Bonus (if implemented)
-
-- Algorithmic strategy for larger sets (e.g., radix sort, chunk sorting)  
-- Minimize operations further (e.g., use fewer moves for 1000+ numbers)  
-- Visualizer or checker tool that reads operations and verifies sorting  
-- Additional features: color outputs, option flags, check mode  
-
 ## 🚀 How to Use
 
 Clone and build:
